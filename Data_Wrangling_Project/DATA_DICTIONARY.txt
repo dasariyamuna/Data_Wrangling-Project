@@ -1,0 +1,6 @@
+DATA DICTIONARY
+
+id     : Unique customer identification number
+name   : Customer name
+age    : Customer age in years
+sales  : Purchase amount in currency
